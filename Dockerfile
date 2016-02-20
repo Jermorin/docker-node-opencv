@@ -1,4 +1,3 @@
-
 FROM node:latest
 
 MAINTAINER Jérémy Morin <hi@jermor.in>
